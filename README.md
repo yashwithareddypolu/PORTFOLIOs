@@ -1,2 +1,129 @@
 # PORTFOLIOs
 A small portfolio webpage using only html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Polu Yashwitha | Portfolio</title>
+</head>
+<body>
+
+    <!-- Header -->
+    <h1>Polu Yashwitha</h1>
+    <h3>Aspiring Full Stack Developer</h3>
+    <p><b>Email:</b> <a href="mailto:yaswithareddy8897@gmail.com">yaswithareddy8897@gmail.com</a></p>
+    <p><b>Location:</b> Chittoor, Andhra Pradesh</p>
+    <p>
+        <b>GitHub:</b> <a href="https://github.com/yashwithareddypolu">github.com/yashwithareddypolu</a><br>
+        <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/yashwithapolu1907/">linkedin.com/in/yashwithapolu1907</a>
+    </p>
+    <hr>
+
+    <h2>Career Objective</h2>
+    <p>
+        Enthusiastic Computer Science student seeking opportunities in full-stack development. 
+        Passionate about building scalable and user-friendly web applications while continuously 
+        strengthening skills in Data Structures and Algorithms. Eager to apply technical knowledge 
+        in real-world projects, collaborate with teams, and contribute to innovative solutions 
+        that create meaningful impact.
+    </p>
+    <hr>
+
+    
+    <h2>Skills</h2>
+
+    <h3>Languages</h3>
+    <p>Java, JavaScript, SQL, HTML, CSS</p>
+
+    <h3>Tools & Frameworks</h3>
+    <p>Git, GitHub, Bootstrap, VS Code, ServiceNow</p>
+
+    <h3>Core Strengths</h3>
+    <p>
+        Data Structures & Algorithms, Full-Stack Development, NLP, Prompt Engineering, 
+        ServiceNow CSA, ServiceNow CAD (Learning), CIS-DF (CMDB & CSDM)
+    </p>
+
+    <h3>Soft Skills</h3>
+    <p>Problem Solving, Teamwork, Fast Learner, Communication</p>
+
+    <h2>Experience</h2>
+
+    <p>
+        <b>Full-Stack Web Development Intern – IndiWebPros</b><br>
+        Working on building web applications and improving real-world development skills.
+    </p>
+
+    <p>
+        <b>NSS Coordinator (Ex)</b><br>
+        Led student activities, organized Swachh Bharat campaigns, and promoted community engagement.
+    </p>
+
+    <hr>
+
+    
+    <h2>Projects</h2>
+    <ul>
+        <li>
+            <b>Portfolio Website</b><br>
+            Developed a personal portfolio to showcase skills and achievements.<br>
+            <b>Technologies:</b> HTML
+        </li>
+        <br>
+        <li>
+            <b>Simple Blog Application</b><br>
+            Built a basic blog interface using HTML, CSS, and JavaScript.<br>
+            <b>Technologies:</b> HTML, CSS, JavaScript
+        </li>
+    </ul>
+    <hr>
+
+    
+    <h2>Education</h2>
+
+    <p>
+        <b>B.Tech – Computer Science Engineering</b><br>
+        Mohan Babu University, Tirupati<br>
+        2023 – 2027
+        CGPA: 9.6 / 10
+    </p>
+
+    <p>
+        <b>Intermediate (MPC)</b><br>
+        Narayana Junior College, Tirupathi<br>
+        2021 – 2023
+        Percentage:98 / 100
+    </p>
+
+    <p>
+        <b>SSC (10th Grade)</b><br>
+        Sree Bhanodhaya English Medium High School, Etteri<br>
+        2020 – 2021
+        Percentage: 100 / 100
+    </p>
+
+    <hr>
+
+    
+    <h2>Certifications</h2>
+    <ul>
+        <li>ServiceNow CSA – Platform administration & workflows</li>
+        <li>ServiceNow CAD – Application development on ServiceNow</li>
+        <li>Frontend Development – Apna College (HTML, CSS, JS)</li>
+    </ul>
+    <hr>
+
+    
+    <h2>Achievements</h2>
+    <ul>
+        <li>Active participant in coding challenges and problem-solving platforms</li>
+        <li>Continuously improving Data Structures and Algorithms skills</li>
+    </ul>
+    <hr>
+
+
+    <p><i>Thank you for visiting my portfolio!</i></p>
+
+</body>
+</html>
